@@ -171,4 +171,3 @@ NEXT STEPS (planned, not yet done)
 - Git version control (with venv/ in .gitignore).
 - Switch target to VOLATILITY (which has real, learnable signal) to get an
   honest model-beats-baseline result - optionally in PyTorch for DL practice.
-===============================================================================
